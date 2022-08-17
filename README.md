@@ -2,4 +2,4 @@
 #The result you can watch here!
 
 
-[My first job with HTML & CSS](https://daniylmlotek.github.io/marathoon/).
+[Marathon with HTML & CSS](https://daniylmlotek.github.io/marathoon/).
